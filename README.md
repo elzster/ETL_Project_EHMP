@@ -6,7 +6,7 @@
 By: @Elie Hakim, @Miguel Patxot
 ---------------
 
-**Project Scope:**
+## **Project Scope:**
 
 We wanted to take a look and identify fuel up habits of the Fuelly community.
 
@@ -16,21 +16,21 @@ Are gas prices swaying consumers to driving smaller vehicles or larger vehicles?
 
 What do the average fill ups look like by category? Car Model? Most popular driven car?
 
-**Extract:**
+## **Extract:**
 
 We went through and captured up-to-date data from fuelly with regards to all fuel ups happening in the US.
 
 With our small sample, we also had captured gas prices from the AAA website giving national averages for all types of gas for the specific day.
 
-**Transform:**
+## **Transform:**
 
 We compiled all the data with the use of Jupyter Notebook, and populated cleaned up data frames that would suffice for a small sample.
 
-**Load:**
+## **Load:**
 
 Using PostgreSQL, We loaded our data into tables for analysis that we would do later down the line.
 
-**Further Considerations**
+## **Further Considerations:**
 * Compiling more data, extracting more of the tables that are available on the Fuelly website.
 
 * Increasing sample size to get more fuel ups actively happening.
