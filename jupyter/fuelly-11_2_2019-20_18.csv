@@ -1,51 +1,51 @@
 ,User,Vehicle,MPG
-0,mtang2,2007 Mazda 3,27.3 MPG
-1,DCarp8973,2019 BMW X3,25.9 MPG
-2,chinwey,2018 Honda City,53.8 MPG
-3,webster354,1991 Mazda MX-5 Miata,22.1 MPG
-4,cjcraig,2019 Lincoln MKC,19.6 MPG
-5,clubizarre,2016 Mazda 3,30.8 MPG
-6,magna413,2018 Seat Leon,24.2 MPG
-7,Tinus,2013 Jeep Liberty,16.7 MPG
-8,keizai,2017 Jeep Cherokee,19.8 MPG
-9,paolofuel,2017 Toyota Sienna,19.2 MPG
-10,thekuyku,2014 Toyota Auris,30.5 MPG
-11,paolofuel,2015 Volvo S60,17.9 MPG
-12,maggie7137,2004 Toyota Camry,23.4 MPG
-13,rockjetty,2016 Nissan Frontier,19.4 MPG
-14,macreuse450,2013 Ford Focus,31.0 MPG
-15,EcoFit,2018 Volkswagen Golf SportWagen,38.5 MPG
-16,redkiwi,2016 Can-Am Spyder F3 (SE6),43.6 MPG
-17,sunra360,2018 Honda Grom 125,113.2 MPG
-18,Jaxiness,2009 Hyundai Tucson,21.9 MPG
-19,Cobwebs,2017 Volkswagen Tiguan,29.6 MPG
-20,Jbarn2,2015 Jeep Renegade,21.5 MPG
-21,69w108,1969 Mercedes-Benz 280SE,15.4 MPG
-22,dgarcias,2017 Chevrolet Traverse,16.8 MPG
-23,MegaGergin,2019 Yamaha XMAX 250 ABS,39 minutes ago
-24,Akhyang,2016 BMW 328d xDrive,25.4 MPG
-25,VonaG,2018 Mitsubishi Outlander PHEV,32.8 MPG
-26,r6emperor,2018 Volkswagen Golf Alltrack,27.7 MPG
-27,parsaur,2019 Toyota RAV4,44.5 MPG
-28,jthomas,2014 Lexus RX450h,27.9 MPG
-29,G_gazoo,2002 Toyota Corolla,23.6 MPG
-30,rbrennan,2002 Dodge Dakota,19.1 MPG
-31,OzMoto,2019 Yamaha XSR900,44.9 MPG
-32,bookermorgan86,2004 GMC Sierra 2500 HD,12.7 MPG
-33,adamworrall4,2015 Subaru Impreza,27.7 MPG
-34,arnieSR,2019 Hyundai Accent,25.8 MPG
-35,Jackes1754,2011 Toyota Fortuner,16.7 MPG
-36,DGo12,2017 Toyota Tundra,13.5 MPG
-37,TWP75,2019 Jeep Grand Cherokee,13.2 MPG
-38,22positions,2015 Volkswagen Jetta,31.0 MPG
-39,giannisamaliada,2005 Skoda Octavia,33.3 MPG
-40,FOCUS2,2015 BMW 320i xDrive,33.9 MPG
-41,dq72,2015 Volkswagen Golf,23.0 MPG
-42,dianaaa,2014 Honda CR-V,30.6 MPG
-43,yugodpkc,2013 Toyota Sienna,56 minutes ago
-44,Daaavid,2018 GMC Sierra 1500,15.2 MPG
-45,ph660,2009 Nissan X-Trail,27.7 MPG
-46,ThinusJvRensburg,2012 BMW M5,16.7 MPG
-47,KrazieSj,2007 Toyota Tacoma,15.8 MPG
-48,EODguy,1985 Honda GL1200L Gold Wing Limited,34.9 MPG
-49,namaes,2019 BMW 330e,24.9 MPG
+0,CivicBob,2013 Ford C-Max,35.9 MPG
+1,imlzzvq,2006 Toyota Sienna,15.1 MPG
+2,rowdyred94,2015 Audi A3 Quattro,24.4 MPG
+3,exit333,2016 Honda HR-V,28.4 MPG
+4,gonzob,2007 Moto Guzzi Breva 750,54.0 MPG
+5,snyderro,2009 Toyota Camry,27.1 MPG
+6,gefinley,1999 Subaru Legacy,26.1 MPG
+7,ajwhited71,2019 Indian Scout,39.4 MPG
+8,daisybear,2016 Subaru Crosstrek,24.8 MPG
+9,JMGentile,2019 Nissan Frontier,15.1 MPG
+10,Harden,2017 Mini Cooper,33.8 MPG
+11,samytoutou,2012 Ford Escape,19.6 MPG
+12,Darin,2011 BMW 335d,23.8 MPG
+13,Dustenabell,1999 Ford Ranger,15.5 MPG
+14,orange57,2000 Chevrolet Tahoe,14.5 MPG
+15,scottyo,2016 Ford Fusion,37.6 MPG
+16,BlueMonteSS,1995 Alfa Romeo 164,15.9 MPG
+17,ridebaja,2005 Acura TL,31.3 MPG
+18,gcruse54,2018 Nissan Titan,14.0 MPG
+19,TheDeafGuy,2003 Chevrolet S10,23.1 MPG
+20,694doorbird,2006 Dodge Charger,18.4 MPG
+21,jericho730,2018 Chevrolet Silverado 2500 HD,9.6 MPG
+22,tfdcapt,2016 GMC Sierra 1500,17.0 MPG
+23,maskedferret,2012 Mazda MX-5 Miata,26.5 MPG
+24,Faylinameir,2015 Chevrolet Sonic,21.9 MPG
+25,darryld13,2003 Honda Accord,26.8 MPG
+26,Belgarion115,2002 Audi TT Quattro,26.4 MPG
+27,jstephens,2014 Honda Civic,30.5 MPG
+28,DanParker,2015 Nissan Frontier,16.5 MPG
+29,kingpiko,2014 Chevrolet Cruze,28.7 MPG
+30,MrMischief,2019 Jeep Wrangler,20.5 MPG
+31,captbob,2011 Chevrolet Camaro,22.4 MPG
+32,JEStroz,1998 Toyota 4Runner,10.7 MPG
+33,kuanhon,2015 Honda City,32.3 MPG
+34,caml224,2010 Toyota Corolla,31.7 MPG
+35,MrPremium,2016 Ford Focus,20.5 MPG
+36,Niro,2015 Subaru WRX STI,18.5 MPG
+37,ack210,2015 Toyota RAV4,26.3 MPG
+38,xliderider,2014 Toyota Corolla,37.7 MPG
+39,fitzbear,1980 Volkswagen Dasher,48.0 MPG
+40,mjl04010,2015 Toyota Corolla,34.3 MPG
+41,mirth,2014 Toyota Prius V,38.2 MPG
+42,Leprechaun93,2018 Chevrolet Camaro,17.6 MPG
+43,alexmeeres,2018 Kia Niro,38.2 MPG
+44,Wendal,2010 Honda VFR1200F,34.6 MPG
+45,Leprechaun93,2008 Buick LaCrosse,18.5 MPG
+46,S6025TAWD,2015 Chrysler 200,27.7 MPG
+47,clayton4115,2010 Toyota Camry,38.0 MPG
+48,ronrca,2019 Mini Cooper,36.6 MPG
+49,smacdaniel,2017 Nissan Rogue,23.4 MPG
