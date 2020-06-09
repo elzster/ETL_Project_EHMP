@@ -23,14 +23,8 @@ Base.prepare(db.engine, reflect=True)
 #Statement to run to show databased has connected locally.
 print("Database is now connected")
 
-##########
-##Routes##
-##########
-
-@app.route("/")
-def index():
-
-    return render_template("index.html")
+#import our routes from extra file
+import app_routes
 
 #Set Flask App debugging to true.
 if __name__ == "__main__":
